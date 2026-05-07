@@ -1,4 +1,3 @@
-# final-lab-exam-dashboard-due-as-ilao-maquinay-marabe
 1 BSIE B | FINAL LAB EXAM | COE106 - COMPUTER PROGRAMMING 2 |
 
 MEMBERS:
